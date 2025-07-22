@@ -1,5 +1,7 @@
 # Italian Restaurant Website | HTML/CSS/JS Project
 
+Warning: One of my first pet-project! Now I'm doing them much cooler!
+
 # About project
 An adaptive landing page for an Italian restaurant with an emphasis on visual appeal and ease of use. The project includes the main pages: menu, gallery of dishes, section with reviews and a table reservation form.
 
@@ -16,6 +18,6 @@ An adaptive landing page for an Italian restaurant with an emphasis on visual ap
 
 # How to watch
 1. Clone the repository:
- git clone https://github.com/sakhievanadi/sakhievanadi.github.io
+ git clone https://github.com/sakhievanadi/delizioso.github.io
 
 Author: sakhievanadi
